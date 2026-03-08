@@ -1,11 +1,22 @@
-# IntakeCTF
+# CTF Challenges
 
-IntakeCTF is a CTF ran by Warwick Cyber Security Society for new first-years, in October.
-It is beginner-friendly and designed to introduce students to CTFs.
+A repo of CTF challenges I have developed.
 
 ## IntakeCTF 2024
-I developed three challenges at the end of my first-year, for the new freshers.
-Including:
 - Join the Wild Hunt (Web, JWT cracking)
-- Request Rumble (Web, request spoofing)
 - LinkedIn LARPing (OSINT, security questions)
+- Request Rumble (Web, request spoofing)
+
+## IntakeCTF 2025
+- Application Assimiliation (OSINT, user interfaces)
+- speck of dust (Forensics, waveform analysis)
+- subdirectotree (Forensics, CLI)
+- The Complete System (Misc, full pen test env)
+- The Cybering 2 (Web, SQLi)
+
+## GooseCTF 2026
+- Clankers (Web, robots & trawling)
+- Have a Gander (OSINT, photo research)
+- Mendel's Mistake (Web, prototype pollution)
+- Shade-y Business (Misc, image editing)
+- Throwback (Forensics, hidden files)
